@@ -1,0 +1,1 @@
+- Tried the tutorial: https://developers.google.com/pay/api/web/guides/tutorial#tutorial
